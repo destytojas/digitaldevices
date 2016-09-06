@@ -1,0 +1,7 @@
+1. p16 (1.11) expression in the middle shifted by one position and answer is incorrect.
+2. p38 last and 2nd expression from the bottom (negation should be on X, not on Z in the last terms)
+3. p39 rules for minimization are not full (last step should be to apply axioms and/or theorems to further minimize the expression if the minimization is possible).
+F = AB + ABC = AB
+X = X + XY
+F = AB'C'+AB'C+A'BC = AB'+A'BC
+4. p90 fig.10.4 change places of a) and b) pictures (multiplexer and demultiplexer). In 1-to-4 demultiplexer s0 and s1 should change places.
